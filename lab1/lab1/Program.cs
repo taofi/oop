@@ -176,7 +176,7 @@ namespace lab1
                     Console.WriteLine(iMax + 1);
                 }
             }
-            local1();
+            local1(); 
             local2();
         }
     }
