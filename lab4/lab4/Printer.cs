@@ -4,14 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace lab3
+namespace lab4
 {
-    internal static class StatisticOperation
+    internal class Printer
     {
-        public static string AddDot(this string str)
+        public static string IAmPrinting(BaseFinance someObj)
         {
-            return str + '.';
+            return someObj.ToString();
         }
-        
     }
 }

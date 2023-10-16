@@ -6,3 +6,10 @@ C:\Users\User\Desktop\ун\oop\lab3\lab3\obj\Debug\lab3.csproj.SuggestedBindingR
 C:\Users\User\Desktop\ун\oop\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\ун\oop\lab3\lab3\obj\Debug\lab3.exe
 C:\Users\User\Desktop\ун\oop\lab3\lab3\obj\Debug\lab3.pdb
+D:\projects\oop\lab3\lab3\bin\Debug\lab3.exe.config
+D:\projects\oop\lab3\lab3\bin\Debug\lab3.exe
+D:\projects\oop\lab3\lab3\bin\Debug\lab3.pdb
+D:\projects\oop\lab3\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+D:\projects\oop\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+D:\projects\oop\lab3\lab3\obj\Debug\lab3.exe
+D:\projects\oop\lab3\lab3\obj\Debug\lab3.pdb
