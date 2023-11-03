@@ -1,0 +1,38 @@
+lab11
+
+public constructor:
+     Void .ctor()
+     Void .ctor(System.String, Int32, Int32)
+
+Customer public method
+     get_ID
+     get_Name
+     set_Name
+     get_CardNumber
+     get_Balance
+     AddBalance
+     WriteOffBalance
+     ToString
+     Equals
+     GetHashCode
+     GetType
+
+Customer property
+     ID
+     Name
+     CardNumber
+     Balance
+
+Customer Fields
+     id
+     name
+     cardNumber
+     balance
+     customerCount
+     CONST
+
+Customer interfaces
+
+Customer metods with System.Int32
+     AddBalance
+     WriteOffBalance

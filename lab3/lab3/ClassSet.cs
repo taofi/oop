@@ -93,7 +93,7 @@ namespace lab3
             }
             finally
             {
-                Console.WriteLine("Executing finally block.");
+                Console.WriteLine("finally block.");
             }
         }
         public void FileRead(string FileName)
@@ -116,7 +116,7 @@ namespace lab3
             }
             finally
             {
-                Console.WriteLine("Executing finally block.");
+                Console.WriteLine("finally block.");
             }
         }
     }
